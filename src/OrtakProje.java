@@ -2,9 +2,9 @@ public class OrtakProje {
     public static <Öğrenci> void main(String[] args) {
         //Team 09 olarak yeni spariş aldığımız Yıldız Koleji ortak proje yapacağiz
         // Aşagidaki ilgili bölümleri görev dağilimi yaparak dolduralım*/
-         ÖğrenciKayıtEkleme(); /* görevli kişi ...  */
-         ÖğrenciKayıtSilme();  /* görevli kişi....   */
-         ÖğretmenKayıtEkleme(); /* görevli kişi ...  */
+         ÖğrenciKayıtEkleme(); /* görevli kişi ..
+         ÖğrenciKayıtSilme();  /* görevli kişi..
+         ÖğretmenKayıtEkleme(); /* görevli kişi .
     }
 
     private static void ÖğretmenKayıtEkleme() {
