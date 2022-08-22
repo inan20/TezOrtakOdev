@@ -17,8 +17,8 @@ public class OrtakProje {
 
     private static void ÖğrenciKayıtSilme() {
         /*Öğrenci kayıt silme işlemlerini yapınız*/
-   
-    
+
+        System.out.println("baslangıc");
     
     }
 
