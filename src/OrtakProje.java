@@ -25,7 +25,7 @@ public class OrtakProje {
     private static void ÖğrenciKayıtEkleme() {
         /*Öğretmen Kayıt Eklem  işlemlerini yapınız*/
 
-
+//cuneyt mekana giris yaptı
         
         
     }
