@@ -12,7 +12,7 @@ public class OrtakProje {
     private static void ÖğretmenKayıtEkleme() {
         /*Öğrenci Eklemek için gerekli işlemleri yapınız.*/
         System.out.println("1.metod islemi tamam");
-
+//21-50
     }
 
     private static void ÖğrenciKayıtSilme() {
