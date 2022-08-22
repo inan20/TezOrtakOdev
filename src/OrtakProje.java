@@ -4,9 +4,9 @@ public class OrtakProje {
         // Aşagidaki ilgili bölümleri görev dağilimi yaparak dolduralım*/
         
         
-          ÖğretmenKayıtEkleme();  görevli kişi   14.  Satır
-          ÖğrenciKayıtSilme();   görevli kişi    20.  Satır
-          ÖğrenciKayıtEkleme();  görevli kişi    27.  Satır 
+          ÖğretmenKayıtEkleme(); // görevli kişi   14.  Satır // 
+          ÖğrenciKayıtSilme();   // görevli kişi    20.  Satır //
+          ÖğrenciKayıtEkleme();  //  görevli kişi    27.  Satır //
     }
 
     private static void ÖğretmenKayıtEkleme() {
